@@ -1,0 +1,15 @@
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\bin\Debug\net6.0\COS20007 Research.exe
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\bin\Debug\net6.0\COS20007 Research.deps.json
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\bin\Debug\net6.0\COS20007 Research.runtimeconfig.json
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\bin\Debug\net6.0\COS20007 Research.dll
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\bin\Debug\net6.0\COS20007 Research.pdb
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\COS20007 Research.csproj.AssemblyReference.cache
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\COS20007 Research.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\COS20007 Research.AssemblyInfoInputs.cache
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\COS20007 Research.AssemblyInfo.cs
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\COS20007 Research.csproj.CoreCompileInputs.cache
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\COS20007 Research.dll
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\refint\COS20007 Research.dll
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\COS20007 Research.pdb
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\COS20007 Research.genruntimeconfig.cache
+D:\Swinburne\Object-Oriented Programming\COS20007 Research\COS20007 Research\obj\Debug\net6.0\ref\COS20007 Research.dll

@@ -1,0 +1,15 @@
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.exe
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.deps.json
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.runtimeconfig.json
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.dll
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\bin\Debug\net6.0\SemesterTest.pdb
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.csproj.AssemblyReference.cache
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.AssemblyInfoInputs.cache
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.AssemblyInfo.cs
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.csproj.CoreCompileInputs.cache
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.dll
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\refint\SemesterTest.dll
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.pdb
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\SemesterTest.genruntimeconfig.cache
+D:\Swinburne\Object-Oriented Programming\SemesterTest\SemesterTest\obj\Debug\net6.0\ref\SemesterTest.dll
